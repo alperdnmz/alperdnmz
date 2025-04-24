@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper DÖNMEZ</h1>
-<h3 align="center">Java Software Engineer Candidate && Computer Engineering Student at Konya Technical University</h3>
+<h3 align="center">Computer Engineering Student at Konya Technical University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperdnmz&label=Profile%20views&color=0e75b6&style=flat" alt="alperdnmz" /> </p>
 
