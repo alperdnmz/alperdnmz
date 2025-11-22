@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Java Spring, Java Core, JPA, Angular**
+- 🌱 I’m currently learning **Artifical Intelligence, Data Science, Machine Learning, Deep Learning, Data Visualization, Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://alperdonmez.dev/](https://alperdonmez.dev/)
 
